@@ -1,0 +1,2 @@
+C:\Users\bulen\source\repos\DjangoWebProject3\DjangoWebProject3\obj\Any CPU\Debug\DjangoWebProject3.pyproj.SuggestedBindingRedirects.cache
+C:\Users\bulen\source\repos\DjangoWebProject3\DjangoWebProject3\obj\Any CPU\Debug\DjangoWebProject3.pyproj.CoreCompileInputs.cache
