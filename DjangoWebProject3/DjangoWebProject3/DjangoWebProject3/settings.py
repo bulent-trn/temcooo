@@ -31,18 +31,18 @@ SECRET_KEY = '31ffd645-5009-4513-8746-43370649f9e7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 # 'temco-blog-app.azurewebsites.net'
-ALLOWED_HOSTS = ["temcoo.azurewebsites.net"]
+ALLOWED_HOSTS = ["https://temcoo.azurewebsites.net"]
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
-INSTALLED_APPS = [       
+INSTALLED_APPS = [
+    'app',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'app',
     'ckeditor',
     'taggit'
 ]
